@@ -1,4 +1,4 @@
-package com.kodvix.OnlineJobPortal.ServiceImpl;
+package com.kodvix.OnlineJobPortal.serviceImpl;
 
 import com.kodvix.OnlineJobPortal.dto.*;
 import com.kodvix.OnlineJobPortal.entity.*;

@@ -1,4 +1,4 @@
-package com.kodvix.OnlineJobPortal.ServiceImpl;
+package com.kodvix.OnlineJobPortal.serviceImpl;
 import com.kodvix.OnlineJobPortal.dto.AdminRequestDto;
 import com.kodvix.OnlineJobPortal.dto.AdminResponseDto;
 import com.kodvix.OnlineJobPortal.entity.User;

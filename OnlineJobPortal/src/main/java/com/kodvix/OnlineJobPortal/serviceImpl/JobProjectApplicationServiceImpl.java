@@ -1,4 +1,4 @@
-package com.kodvix.OnlineJobPortal.ServiceImpl;
+package com.kodvix.OnlineJobPortal.serviceImpl;
 
 import com.kodvix.OnlineJobPortal.dto.*;
 import com.kodvix.OnlineJobPortal.entity.JobProjectApplication;
@@ -6,7 +6,6 @@ import com.kodvix.OnlineJobPortal.entity.JobProjectPost;
 import com.kodvix.OnlineJobPortal.entity.User;
 import com.kodvix.OnlineJobPortal.enums.ApplicationStatus;
 import com.kodvix.OnlineJobPortal.exception.EntityNotFoundException;
-import com.kodvix.OnlineJobPortal.exception.ResourceNotFoundException;
 import com.kodvix.OnlineJobPortal.repository.JobProjectApplicationRepository;
 import com.kodvix.OnlineJobPortal.repository.JobProjectPostRepository;
 import com.kodvix.OnlineJobPortal.repository.UserRepository;

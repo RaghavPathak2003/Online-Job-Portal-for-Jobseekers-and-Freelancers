@@ -1,4 +1,4 @@
-package com.kodvix.OnlineJobPortal.ServiceImpl;
+package com.kodvix.OnlineJobPortal.serviceImpl;
 
 import com.kodvix.OnlineJobPortal.dto.LoginRequestDto;
 import com.kodvix.OnlineJobPortal.dto.LoginResponseDto;
@@ -9,8 +9,6 @@ import com.kodvix.OnlineJobPortal.service.UserService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import java.util.List;
 
 @Service
 public class UserServiceImpl implements UserService {

@@ -1,4 +1,4 @@
-package com.kodvix.OnlineJobPortal.ServiceImpl;
+package com.kodvix.OnlineJobPortal.serviceImpl;
 
 import com.kodvix.OnlineJobPortal.dto.RecruiterRequestDto;
 import com.kodvix.OnlineJobPortal.dto.RecruiterResponseDto;
