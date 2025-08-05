@@ -231,7 +231,7 @@ POST http://localhost:8084/jobProjectPost/save
 ### ⚠️ Exception Handling
 - `@RestControllerAdvice` + `@ExceptionHandler`
 - Custom exceptions like `EntityNotFoundException`, `InvalidUserRoleException`, `ResourceNotFoundException`
-- Standardized error response:
+- Standardized error response example:
 
 ``` Example json when a jobseeker/freelancer try to post a job/project
 {
