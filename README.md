@@ -43,6 +43,7 @@ A comprehensive backend system for an **Online Job Portal for Job Seekers and Fr
 - Spring Web
 - Spring Data JPA
 - Hibernate
+- Maven
 - ModelMapper
 - Lombok
 - Swagger/OpenAPI
