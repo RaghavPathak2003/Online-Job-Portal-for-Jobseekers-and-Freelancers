@@ -87,11 +87,11 @@ src/
 
 ### 2. **Freelancer Module**
 - Register and manage freelancer profiles
-- Upload resume and profile picture and apply for projects
+- Upload resume and profile picture
 
 ### 3. **Job Seeker Module**
 - Register and manage job seeker profiles
-- Upload resume and profile picture and apply to jobs
+- Upload resume and profile picture
 
 ### 4. **Recruiter Module**
 - Register and manage recruiter profiles
