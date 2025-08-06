@@ -64,16 +64,16 @@ A comprehensive backend system for an **Online Job Portal for Job Seekers and Fr
 
 ```
 src/
-├── config              # Configuration beans (Swagger, ModelMapper, etc.)
-├── controller          # REST controllers
-├── dto                 # Request and Response DTOs
-├── model/entity        # JPA entities
-├── enums               # Enum types (Role, Status, etc.)
-├── exception           # Custom exceptions and global handlers
-├── repository          # Spring Data JPA repositories
-├── service             # Service interfaces
-├── serviceImpl         # Service classes and implemented interfaces
-└── JobPortalApplication.java # Main Spring Boot app
+├── config                       # Configuration beans (Swagger, ModelMapper, etc.)
+├── controller                   # REST controllers
+├── dto                          # Request and Response DTOs
+├── model/entity                 # JPA entities
+├── enums                        # Enum types (Role, Status, etc.)
+├── exception                    # Custom exceptions and global handlers
+├── repository                   # Spring Data JPA repositories
+├── service                      # Service interfaces
+├── serviceImpl                  # Service classes and implemented interfaces
+└── JobPortalApplication.java    # Main Spring Boot app
 ```
 
 ---
