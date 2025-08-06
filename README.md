@@ -22,7 +22,7 @@ A comprehensive backend system for an **Online Job Portal for Job Seekers and Fr
 
 ## 🚀 Features
 
-- 🧍 User Registration for Job Seekers and Freelancers
+- 🧍 User Registration for Job Seekers, Freelancers and Recruiters
 - 📄 Resume Uploading and Job Posting
 - ✅ Role-Based Enums for scalable user management
 - 💡 DTO Layer with **ModelMapper** for clean API responses
@@ -81,22 +81,20 @@ src/
 ## 🧩 Modules
 
 ### 1. **Admin Module**
-- Manage users, freelancers, and job seekers
+- Manage recruiters, freelancers, and job seekers
 - Oversee project postings and applications
 - Monitor platform activity
 
 ### 2. **Freelancer Module**
 - Register and manage freelancer profiles
-- Post job/project offerings
-- View and manage applications from job seekers
+- Upload resume and profile picture and apply for projects
 
 ### 3. **Job Seeker Module**
 - Register and manage job seeker profiles
-- Upload resume and apply to jobs/projects
-- View job/project details
+- Upload resume and profile picture and apply to jobs
 
 ### 4. **Recruiter Module**
-- Post jobs on behalf of companies
+- Register and manage recruiter profiles
 - View applications and contact candidates
 - Collaborate with freelancers or job seekers
 
