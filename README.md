@@ -4,7 +4,7 @@ A comprehensive backend system for an **Online Job Portal for Job Seekers and Fr
 
 ---
 
-## 📌 Table of Contentss
+## 📌 Table of Contents
 
 - [🚀 Features](#-features)
 - [🛠️ Tech Stack](#️-tech-stack)
